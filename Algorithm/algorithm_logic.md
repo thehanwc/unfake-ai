@@ -145,5 +145,6 @@ Robustness: Safeguards against unreliable or minimal input conditions.
 
 ---
 
-Author: Han Wei Chang
-Institution: Taylor’s University – School of Computer Science
+**Author:** Han Wei Chang  
+**Institution:** Taylor’s University – School of Computer Science   
+
